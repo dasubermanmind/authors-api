@@ -1,0 +1,7 @@
+env
+.vscode
+.idea
+.coverage
+staticfiles
+.env/*
+!.env/.local/
